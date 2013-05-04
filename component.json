@@ -1,0 +1,14 @@
+{
+  "name": "ffosbb-tabs",
+  "repo": "namjul/ffosbb-tabs",
+  "description": "Firefox OS Building Blocks tabs component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "styles": [
+    "tabs.css"
+  ],
+  "images": [
+    "tabs/images/ui/shadow-revert.png",
+    "tabs/images/ui/shadow.png"
+  ]
+}
